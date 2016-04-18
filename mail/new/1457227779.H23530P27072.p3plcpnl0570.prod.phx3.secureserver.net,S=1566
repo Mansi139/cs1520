@@ -1,0 +1,33 @@
+Return-path: <mat185@p3plcpnl0570.prod.phx3.secureserver.net>
+Envelope-to: mat185@p3plcpnl0570.prod.phx3.secureserver.net
+Delivery-date: Sat, 05 Mar 2016 18:29:39 -0700
+Received: from mat185 by p3plcpnl0570.prod.phx3.secureserver.net with local (Exim 4.85)
+	(envelope-from <mat185@p3plcpnl0570.prod.phx3.secureserver.net>)
+	id 1acNVq-00072X-TP
+	for mat185@p3plcpnl0570.prod.phx3.secureserver.net; Sat, 05 Mar 2016 18:29:38 -0700
+To: mat185@p3plcpnl0570.prod.phx3.secureserver.net
+Subject: [My blog] Please moderate: "Hello world!"
+X-PHP-Script: www.mansithakkar.com/wp-comments-post.php for 71.195.69.55
+Date: Sun, 6 Mar 2016 01:29:38 +0000
+From: WordPress <wordpress@mansithakkar.com>
+Message-ID: <feffa2be8f9916f36c1a054029a7a9b8@www.mansithakkar.com>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Hello world!" is waiting for your approval
+http://www.mansithakkar.com/uncategorized/hello-world/
+
+Author: mm (IP: 71.195.69.55, c-71-195-69-55.hsd1.pa.comcast.net)
+Email: mat185@pitt.edu
+URL: http://www.mansithakkar.com
+Comment: 
+jo
+
+Approve it: http://www.mansithakkar.com/wp-admin/comment.php?action=approve&c=2
+Trash it: http://www.mansithakkar.com/wp-admin/comment.php?action=trash&c=2
+Spam it: http://www.mansithakkar.com/wp-admin/comment.php?action=spam&c=2
+Currently 1 comment is waiting for approval. Please visit the moderation panel:
+http://www.mansithakkar.com/wp-admin/edit-comments.php?comment_status=moderated
+
